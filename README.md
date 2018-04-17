@@ -1,0 +1,2 @@
+# Data-Structures-Algorithm-Implementation
+Implemented Dijkstra algorithm to find shortest path tree between different cities with the mileage map provided and additionally designed an algorithm which computes the shortest distance trip between the cities computed through Dijkstra where the cities and the highway path can be visited any number of times applying brute force unlike traveling salesman algorithm
